@@ -1,0 +1,10 @@
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Form1.resources
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe.config
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.pdb
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.pdb

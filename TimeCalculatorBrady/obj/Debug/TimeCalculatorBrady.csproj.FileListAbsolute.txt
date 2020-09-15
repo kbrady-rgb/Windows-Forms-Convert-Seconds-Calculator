@@ -1,0 +1,29 @@
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Form1.resources
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe.config
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.pdb
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\C#\TimeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.pdb
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe.config
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.pdb
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Form1.resources
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\test\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\bin\Debug\TimeCalculatorBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Form1.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 4\timeCalculatorBrady\TimeCalculatorBrady\obj\Debug\TimeCalculatorBrady.pdb
